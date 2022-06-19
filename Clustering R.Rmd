@@ -1,0 +1,71 @@
+---
+title: "MetpenKel"
+author: "M. Apriesya Wastu N"
+date: "12/5/2021"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(factoextra)
+library(ggplot2)
+library(dplyr)
+library(readxl)
+```
+
+```{r}
+datapend <- read_excel("C:/Users/mapri/Documents/KULIAH/3SD/Semester 6/VISDAT/pendidikan.xlsx")
+datapend
+```
+
+```{r}
+data.numerik<-datapend[2:9]
+data.numerik
+```
+
+```{r}
+data.stds<-scale(data.numerik)
+data.stds
+```
+
+```{r}
+fviz_nbclust(data.stds, kmeans, method = "wss")
+fviz_nbclust(data.stds, kmeans, method = "silhouette")
+gap_stat <- clusGap(data.stds, FUN = kmeans, nstart = 25,
+                    K.max = 5, B = 50) # metode gap statistic
+fviz_gap_stat(gap_stat)
+```
+
+```{r}
+Clustering=kmeans(data.stds,centers=3,nstart=25)
+Clustering
+```
+
+```{r}
+library(cluster)
+jarak <- as.matrix(dist(data.stds))
+Clustering$cluster
+data4 <- mean(silhouette(Clustering$cluster,dmatrix=jarak)[,3])
+print(paste("koef silhouette = ", round(data4, 3)))
+```
+
+
+```{r}
+fviz_cluster(Clustering, data=data.stds)
+```
+
+```{r}
+hasilcluster=data.frame(datapend, Clustering$cluster)
+View(hasilcluster)
+```
+
+```{r}
+data.numerik %>%
+  mutate(Cluster = Clustering$cluster) %>%
+  group_by(Cluster) %>%
+  summarise_all("mean")
+```
+

@@ -1,0 +1,273 @@
+Provinsi;Fasilitas Pendidikan;Total
+Aceh;SD;3945
+Sumatera Utara;SD;9756
+Sumatera Barat;SD;4225
+Riau;SD;3714
+Jambi;SD;2452
+Sumatera Selatan;SD;4691
+Bengkulu;SD;1391
+Lampung;SD;4726
+Bangka Belitung;SD;822
+Kepulauan Riau;SD;963
+Jakarta Raya;SD;2491
+Jawa Barat;SD;19577
+Jawa Tengah;SD;18869
+Yogyakarta;SD;1841
+Jawa Timur;SD;19092
+Banten;SD;4643
+Bali ;SD;2441
+Nusa Tenggara Barat;SD;3234
+Nusa Tenggara Timur;SD;5158
+Kalimantan Barat;SD;4405
+Kalimantan Tengah;SD;2628
+Kalimantan Selatan;SD;2929
+Kalimantan Timur;SD;1895
+Kalimantan Utara;SD;479
+Sulawesi Utara;SD;2215
+Sulawesi Tengah;SD;2909
+Sulawesi Selatan;SD;6392
+Sulawesi Tenggara;SD;2324
+Gorontalo;SD;923
+Sulawesi Barat;SD;1325
+Maluku;SD;1793
+Maluku Utara;SD;1310
+Papua Barat;SD;1072
+Papua;SD;2563
+Aceh;SMP;1176
+Sumatera Utara;SMP;2606
+Sumatera Barat;SMP;833
+Riau;SMP;1202
+Jambi;SMP;680
+Sumatera Selatan;SMP;1362
+Bengkulu;SMP;430
+Lampung;SMP;1376
+Bangka Belitung;SMP;218
+Kepulauan Riau;SMP;386
+Jakarta Raya;SMP;1127
+Jawa Barat;SMP;5456
+Jawa Tengah;SMP;3350
+Yogyakarta;SMP;446
+Jawa Timur;SMP;4774
+Banten;SMP;1515
+Bali ;SMP;414
+Nusa Tenggara Barat;SMP;964
+Nusa Tenggara Timur;SMP;1751
+Kalimantan Barat;SMP;1336
+Kalimantan Tengah;SMP;836
+Kalimantan Selatan;SMP;615
+Kalimantan Timur;SMP;657
+Kalimantan Utara;SMP;183
+Sulawesi Utara;SMP;724
+Sulawesi Tengah;SMP;849
+Sulawesi Selatan;SMP;1676
+Sulawesi Tenggara;SMP;767
+Gorontalo;SMP;337
+Sulawesi Barat;SMP;374
+Maluku;SMP;665
+Maluku Utara;SMP;493
+Papua Barat;SMP;313
+Papua;SMP;706
+Aceh;SMA;528
+Sumatera Utara;SMA;1074
+Sumatera Barat;SMA;330
+Riau;SMA;448
+Jambi;SMA;234
+Sumatera Selatan;SMA;592
+Bengkulu;SMA;140
+Lampung;SMA;504
+Bangka Belitung;SMA;69
+Kepulauan Riau;SMA;143
+Jakarta Raya;SMA;501
+Jawa Barat;SMA;1648
+Jawa Tengah;SMA;852
+Yogyakarta;SMA;166
+Jawa Timur;SMA;1523
+Banten;SMA;572
+Bali ;SMA;160
+Nusa Tenggara Barat;SMA;324
+Nusa Tenggara Timur;SMA;550
+Kalimantan Barat;SMA;446
+Kalimantan Tengah;SMA;240
+Kalimantan Selatan;SMA;195
+Kalimantan Timur;SMA;222
+Kalimantan Utara;SMA;62
+Sulawesi Utara;SMA;226
+Sulawesi Tengah;SMA;225
+Sulawesi Selatan;SMA;581
+Sulawesi Tenggara;SMA;297
+Gorontalo;SMA;67
+Sulawesi Barat;SMA;88
+Maluku;SMA;282
+Maluku Utara;SMA;210
+Papua Barat;SMA;124
+Papua;SMA;242
+Aceh;SMK;217
+Sumatera Utara;SMK;975
+Sumatera Barat;SMK;211
+Riau;SMK;293
+Jambi;SMK;176
+Sumatera Selatan;SMK;294
+Bengkulu;SMK;105
+Lampung;SMK;484
+Bangka Belitung;SMK;58
+Kepulauan Riau;SMK;109
+Jakarta Raya;SMK;581
+Jawa Barat;SMK;2898
+Jawa Tengah;SMK;1555
+Yogyakarta;SMK;216
+Jawa Timur;SMK;2103
+Banten;SMK;727
+Bali ;SMK;165
+Nusa Tenggara Barat;SMK;317
+Nusa Tenggara Timur;SMK;292
+Kalimantan Barat;SMK;221
+Kalimantan Tengah;SMK;135
+Kalimantan Selatan;SMK;126
+Kalimantan Timur;SMK;216
+Kalimantan Utara;SMK;29
+Sulawesi Utara;SMK;184
+Sulawesi Tengah;SMK;184
+Sulawesi Selatan;SMK;419
+Sulawesi Tenggara;SMK;157
+Gorontalo;SMK;56
+Sulawesi Barat;SMK;133
+Maluku;SMK;113
+Maluku Utara;SMK;139
+Papua Barat;SMK;54
+Papua;SMK;136
+Aceh;GURU SD;49229
+Sumatera Utara;GURU SD;112905
+Sumatera Barat;GURU SD;46936
+Riau;GURU SD;52514
+Jambi;GURU SD;28033
+Sumatera Selatan;GURU SD;60152
+Bengkulu;GURU SD;16083
+Lampung;GURU SD;57814
+Bangka Belitung;GURU SD;9831
+Kepulauan Riau;GURU SD;14732
+Jakarta Raya;GURU SD;43277
+Jawa Barat;GURU SD;222111
+Jawa Tengah;GURU SD;183399
+Yogyakarta;GURU SD;21267
+Jawa Timur;GURU SD;200976
+Banten;GURU SD;59025
+Bali ;GURU SD;27034
+Nusa Tenggara Barat;GURU SD;40660
+Nusa Tenggara Timur;GURU SD;54643
+Kalimantan Barat;GURU SD;39798
+Kalimantan Tengah;GURU SD;26152
+Kalimantan Selatan;GURU SD;31091
+Kalimantan Timur;GURU SD;26744
+Kalimantan Utara;GURU SD;6273
+Sulawesi Utara;GURU SD;19079
+Sulawesi Tengah;GURU SD;28077
+Sulawesi Selatan;GURU SD;72173
+Sulawesi Tenggara;GURU SD;23634
+Gorontalo;GURU SD;8650
+Sulawesi Barat;GURU SD;13334
+Maluku;GURU SD;17670
+Maluku Utara;GURU SD;11341
+Papua Barat;GURU SD;8604
+Papua;GURU SD;19378
+Aceh;GURU SMP;23974
+Sumatera Utara;GURU SMP;46709
+Sumatera Barat;GURU SMP;18573
+Riau;GURU SMP;20642
+Jambi;GURU SMP;11558
+Sumatera Selatan;GURU SMP;26636
+Bengkulu;GURU SMP;7689
+Lampung;GURU SMP;24257
+Bangka Belitung;GURU SMP;3791
+Kepulauan Riau;GURU SMP;6267
+Jakarta Raya;GURU SMP;21033
+Jawa Barat;GURU SMP;96457
+Jawa Tengah;GURU SMP;73619
+Yogyakarta;GURU SMP;9413
+Jawa Timur;GURU SMP;83766
+Banten;GURU SMP;22967
+Bali ;GURU SMP;11939
+Nusa Tenggara Barat;GURU SMP;19761
+Nusa Tenggara Timur;GURU SMP;28947
+Kalimantan Barat;GURU SMP;16533
+Kalimantan Tengah;GURU SMP;10059
+Kalimantan Selatan;GURU SMP;9724
+Kalimantan Timur;GURU SMP;10969
+Kalimantan Utara;GURU SMP;2816
+Sulawesi Utara;GURU SMP;9379
+Sulawesi Tengah;GURU SMP;11860
+Sulawesi Selatan;GURU SMP;30756
+Sulawesi Tenggara;GURU SMP;12301
+Gorontalo;GURU SMP;4238
+Sulawesi Barat;GURU SMP;5417
+Maluku;GURU SMP;9338
+Maluku Utara;GURU SMP;6225
+Papua Barat;GURU SMP;4171
+Papua;GURU SMP;8875
+Aceh;GURU SMA;14675
+Sumatera Utara;GURU SMA;24285
+Sumatera Barat;GURU SMA;11497
+Riau;GURU SMA;11841
+Jambi;GURU SMA;6047
+Sumatera Selatan;GURU SMA;14473
+Bengkulu;GURU SMA;4219
+Lampung;GURU SMA;11731
+Bangka Belitung;GURU SMA;1813
+Kepulauan Riau;GURU SMA;3408
+Jakarta Raya;GURU SMA;12053
+Jawa Barat;GURU SMA;38980
+Jawa Tengah;GURU SMA;26738
+Yogyakarta;GURU SMA;4766
+Jawa Timur;GURU SMA;32915
+Banten;GURU SMA;11317
+Bali ;GURU SMA;5700
+Nusa Tenggara Barat;GURU SMA;9177
+Nusa Tenggara Timur;GURU SMA;15101
+Kalimantan Barat;GURU SMA;7857
+Kalimantan Tengah;GURU SMA;4974
+Kalimantan Selatan;GURU SMA;4833
+Kalimantan Timur;GURU SMA;4864
+Kalimantan Utara;GURU SMA;1400
+Sulawesi Utara;GURU SMA;4890
+Sulawesi Tengah;GURU SMA;5517
+Sulawesi Selatan;GURU SMA;15350
+Sulawesi Tenggara;GURU SMA;7176
+Gorontalo;GURU SMA;2057
+Sulawesi Barat;GURU SMA;2115
+Maluku;GURU SMA;6227
+Maluku Utara;GURU SMA;3625
+Papua Barat;GURU SMA;2407
+Papua;GURU SMA;2782
+Aceh;GURU SMK;6728
+Sumatera Utara;GURU SMK;21792
+Sumatera Barat;GURU SMK;7896
+Riau;GURU SMK;8232
+Jambi;GURU SMK;4446
+Sumatera Selatan;GURU SMK;7927
+Bengkulu;GURU SMK;3022
+Lampung;GURU SMK;11126
+Bangka Belitung;GURU SMK;1786
+Kepulauan Riau;GURU SMK;2564
+Jakarta Raya;GURU SMK;12731
+Jawa Barat;GURU SMK;59518
+Jawa Tengah;GURU SMK;47996
+Yogyakarta;GURU SMK;7310
+Jawa Timur;GURU SMK;45729
+Banten;GURU SMK;12999
+Bali ;GURU SMK;6057
+Nusa Tenggara Barat;GURU SMK;7374
+Nusa Tenggara Timur;GURU SMK;7814
+Kalimantan Barat;GURU SMK;4526
+Kalimantan Tengah;GURU SMK;3059
+Kalimantan Selatan;GURU SMK;3943
+Kalimantan Timur;GURU SMK;5119
+Kalimantan Utara;GURU SMK;877
+Sulawesi Utara;GURU SMK;4293
+Sulawesi Tengah;GURU SMK;4027
+Sulawesi Selatan;GURU SMK;10369
+Sulawesi Tenggara;GURU SMK;3458
+Gorontalo;GURU SMK;1914
+Sulawesi Barat;GURU SMK;2337
+Maluku;GURU SMK;2563
+Maluku Utara;GURU SMK;2072
+Papua Barat;GURU SMK;1315
+Papua;GURU SMK;3067
